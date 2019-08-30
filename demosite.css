@@ -14,7 +14,7 @@ ul {
     max-width: 100%;
   }
   #olodo {
-    background-image: url("./images/hamburger.jpg");
+    background-image: url("./hamburger.jpg");
     background-size: cover;
     background-position: center;
     height: 100vh;
