@@ -1,0 +1,57 @@
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+    
+  }
+  body {
+    margin: 0 auto;
+  }
+  img{
+    max-width: 100%;
+  }
+  #olodo {
+    background-image: url("./images/hamburger.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+  }
+  .sule{
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  .mumu{
+    display: flex;
+    max-width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 64px;
+  }
+  .mumu2{
+  
+  max-width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 64px;
+  }
+  li{
+    float: left;
+  }
+  
+   #float_right{
+     float: right;
+   }
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: grey;
+  }
